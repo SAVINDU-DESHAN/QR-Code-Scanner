@@ -118,3 +118,6 @@ if __name__ == "__main__":
     app = QRCodeScannerApp(root)
     root.protocol("WM_DELETE_WINDOW", app.close_app)
     root.mainloop()
+
+
+# All Copyright for ~ Savindu Deshan ~ 
