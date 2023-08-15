@@ -142,3 +142,5 @@ class QRCodeScannerApp(App):
 
 if __name__ == '__main__':
     QRCodeScannerApp().run()
+
+# All Copyright For ~ Savindu Deshan ~
