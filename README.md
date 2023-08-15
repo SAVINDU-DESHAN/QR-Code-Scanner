@@ -1,6 +1,6 @@
 # QR-Code-Scanner
 
-QR Code Scanner v0.06 🚀⚡
+QR Code Scanner v1.7 🚀⚡
 
 
 
